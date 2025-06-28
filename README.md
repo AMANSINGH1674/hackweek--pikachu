@@ -2,7 +2,10 @@
 
 A stunning recreation of Pikachu, the beloved Electric Mouse Pokémon, built entirely with HTML and CSS. No images, SVGs, or external assets required!
 
-![Pikachu Preview](https://celebrated-cranachan-7b05e6.netlify.app)
+https://hackweek-pikachu.netlify.app/
+<img width="1800" alt="Screenshot 2025-06-28 at 6 24 13 PM" src="https://github.com/user-attachments/assets/6940ffd1-89e7-407b-88fb-5e0346651782" />
+
+
 
 ## ✨ Features
 
